@@ -2,28 +2,14 @@
 title: Introduction
 description: 'Introducing my awesome documentation'
 category: 'Getting started'
-position: 1
-features:
-  - Write in Markdown
-  - Use Vue components
-  - Designed with TailwindCSS
-  - Light and Dark mode
-  - Deploy
+position: 9999
 ---
-
-Welcome to my awesome documentation using [Docus](https://docus.dev).
 
 <alert type="success">
 
-I am a success alert 🚀
+Spring Boot 기반의 k8s 애플리케이션을 어떻게 개발해나가는지 매뉴얼을 정리
 
 </alert>
-
-## Features
-
-<list :items="features"></list>
-
-<p class="flex items-center">Enjoy a documentation with light and dark mode:&nbsp;<color-switcher class="inline-flex ml-2"></color-switcher></p>
 
 ## About
 
