@@ -4,7 +4,7 @@ import { withDocus } from 'docus'
 export default withDocus({
   target: 'static',
   router: {
-    base: '/fibonacc-backend-docs/'
+    base: '/fibonacci-backend-docs/'
   },
   docus: {
     // primaryColor: '#E24F55'
